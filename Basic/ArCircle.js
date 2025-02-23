@@ -6,4 +6,6 @@ var r2=5*5
 //var keyword does the same thing as let but it is old way and it is not recommended because it causes scope problem.
 let result=pi*r2
 console.log(result)
+// console.log is for output.
 console.table([pi,r,result])
+// console.table creates a table.
