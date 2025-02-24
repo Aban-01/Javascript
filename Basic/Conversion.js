@@ -33,6 +33,8 @@ let score=13
 let negScore=-score
 
 console.log(negScore);
+console.log("1"+2+2); // 122
+console.log(2+2+"1"); // 32
 
 
 
