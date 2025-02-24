@@ -29,6 +29,11 @@ let numInString=String(num)
 console.log(typeof num);
 console.log(typeof numInString);
 
+let score=13
+let negScore=-score
+
+console.log(negScore);
+
 
 
 
