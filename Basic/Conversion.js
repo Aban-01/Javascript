@@ -1,13 +1,14 @@
 let a="33"
 let b =null
 
-let aInNumber=Number(a)
-let bInNumber=Number(b)
+let aInNumber=Number(a) // 33
+let bInNumber=Number(b) // 0
 
 console.log(typeof a);
 console.log(typeof aInNumber);
 console.log(typeof b);
 console.log(typeof bInNumber);
+console.log(bInNumber);
 
 //"33" => 33
 // "33abc" => NaN ->Not a Number
@@ -27,7 +28,6 @@ let numInString=String(num)
 
 console.log(typeof num);
 console.log(typeof numInString);
-
 
 
 
